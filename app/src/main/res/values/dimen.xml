@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="max_size_time">125dp</dimen>
+    <dimen name="min_size_time">46dp</dimen>
+    <dimen name="text_size">48dp</dimen>
+</resources>
